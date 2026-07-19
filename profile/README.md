@@ -1,12 +1,7 @@
-## Hi there 👋
+# SouthWest Server Team(西南服务器团队)
 
-<!--
+自2023年9月诞生，至2025年4月停止活动，近期(2026年7月)开始重新维护。
 
-**Here are some ideas to get you started:**
+主要业务为**Minecraft公益服**，目前出于整备状态，在不久的将来可能会继续开放。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+QQ群(主群)：821622633
